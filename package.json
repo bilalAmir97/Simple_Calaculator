@@ -1,6 +1,6 @@
 {
   "name": "simple_calculator_786",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a simple calculator by using Typescript",
   "main": "index.js",
   "type": "module",
